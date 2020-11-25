@@ -1,4 +1,4 @@
-<h1> Hello, People </h1>
+<h1 align="center"> Hello, People </h1>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px">
   <p>🚀 "People work better when they know what the goal is and why. It's important that people are eager to come to work in the morning and enjoy working." - Elon Musk </p>
