@@ -1,7 +1,7 @@
 <h1> Hello, People </h1>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px">
-  <p>🚀 "People work better when they know what the goal is and why. It's important that people are eager to come to work in the morning and enjoy working."</p>
+  <p>🚀 "People work better when they know what the goal is and why. It's important that people are eager to come to work in the morning and enjoy working." - Elon Musk </p>
   <img align="center" alt="Buy me a Coffee" width="600px" height="300px" src="https://designproficient.com/blog/wp-content/uploads/2018/02/creative-process.gif"/>
 </div>
 
