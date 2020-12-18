@@ -18,6 +18,7 @@ Hello, my name is Gabriel Leite, I am 18 years old and I am studying the integra
   <li>ReactJS</li>
   <li>SQL</li>
   <li>NoSQL (MongoDB)</li>
+  <li>GraphQL</li>
   <li>agile methodology (Scrum)</li>
   <li>Test-Driven Development (Jest)</li>
 
