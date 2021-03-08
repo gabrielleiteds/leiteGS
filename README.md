@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, People </h1>
 
 <a href="https://www.linkedin.com/in/gabriel-leite-676253189/">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Gabriel%20Leite-blue"/>
+<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-Gabriel%20Leite-blue"/>
 </a><br>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px">
