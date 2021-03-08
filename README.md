@@ -15,7 +15,6 @@ Hello, my name is Gabriel Leite, I am 18 years old and I am studying the integra
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>NodeJS</li>
-  <li>ReactJS</li>
   <li>SQL</li>
   <li>NoSQL (MongoDB)</li>
   <li>GraphQL</li>
