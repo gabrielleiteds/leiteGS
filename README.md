@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/gabriel-leite-676253189/">
 <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-Gabriel%20Leite-blue"/>
-</a><br>
+</a><br><br>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px">
   <p>🚀 "People work better when they know what the goal is and why. It's important that people are eager to come to work in the morning and enjoy working." - Elon Musk </p>
