@@ -11,16 +11,15 @@ Hello, my name is Gabriel Leite, I am 18 years old and I am studying the integra
 
 <h2 style="margin-top: 15px;">Skills</h2>
 <ul style="list-style-type: none;">
-
-  <li>JavaScript</li>
-  <li>TypeScript</li>
+  
   <li>NodeJS</li>
   <li>SQL</li>
   <li>NoSQL (MongoDB)</li>
   <li>GraphQL</li>
-  <li>agile methodology (Scrum)</li>
-  <li>Test-Driven Development (Jest)</li>
-
+  <li>agile methodology</li>
+  <li>Test-Driven Development</li>
+  <li>Clean Code</li>
+  <li>Design Patterns</li>
 </ul>
 
 <div>
