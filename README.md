@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px">
   <p>🚀 "People work better when they know what the goal is and why. It's important that people are eager to come to work in the morning and enjoy working." - Elon Musk </p>
-  <img align="center" alt="Buy me a Coffee" width="600px" height="300px" src="https://www.flaticon.com/svg/vstatic/svg/1005/1005141.svg?token=exp=1615376056~hmac=4ca7ed5d4446f9d7974d03a27c0b785a"/>
+  <img align="center" alt="Buy me a Coffee" width="600px" height="300px" src="https://cdn3.iconfinder.com/data/icons/browser-15/48/code_coding_programming_search_find-256.png"/>
 </div>
 
 <p>
